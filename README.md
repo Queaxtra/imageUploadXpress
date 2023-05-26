@@ -26,6 +26,7 @@ npm run dev
 - Create an account.
 - After creating the account, create a new project from the console.
 - Enter the project settings.
+
 ![File](https://i.imgur.com/JvkZv80.png)
 
 - Copy the "Project ID" values ​​from the Settings section.
