@@ -39,3 +39,25 @@ npm run dev
 
 That's it for the project setup. If there is something you cannot do, please contact me on Discord.
 **Queaxtra#6164**
+
+
+## Create Storage
+
+- Click on Storage.
+
+![File](https://i.imgur.com/aqDm2Jc.png)
+
+- Enter a storage name. Then write "1001" in the "Bucket ID" field below and create the storage area.
+![File](https://i.imgur.com/cXbXJb6.png)
+
+- Then enter the settings of the storage you created.
+
+![File](https://i.imgur.com/AoUkQKG.png)
+
+- Click on the "Update Permissions" section and select "Any" from the drop-down menu and save.
+![File](https://i.imgur.com/119uedD.png)
+
+- Then go down and tick all the options next to the text that says "Update Allowed File Extensions".
+![File](https://i.imgur.com/5Miq1jk.png)
+
+And yes, the installation is finished. Now you can keep your own files on your own site as you wish.
