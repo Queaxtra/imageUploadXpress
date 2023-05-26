@@ -32,6 +32,7 @@ npm run dev
 ![File](https://i.imgur.com/NmApCtq.png)
 
 - Replace the "Project ID" value you copied in the project.
+
 ![File](https://i.imgur.com/Zng6RVC.png)
 
 ![File](https://i.imgur.com/qj0LQBO.png)
